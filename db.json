@@ -14,7 +14,7 @@
     },
     {
       "id": 3,
-      "title": "game3",
+      "title": "Fishdom-New",
       "image": "https://github.com/jaaveethH/game_demo/blob/main/699510.jpg",
       "url": "https://zippy-bubblegum-8a1990.netlify.app/"
     },
@@ -23,6 +23,12 @@
       "title": "game2",
       "image": "https://i.postimg.cc/NfSqHvkY/images-1.jpg",
       "url": "https://playcanv.as/p/CIikyz29/"
-    }
+    },
+     {
+      "id": 5,
+      "title": "Fishdom-old",
+      "image": "https://github.com/jaaveethH/game_demo/blob/main/699510.jpg",
+      "url": "https://peppy-sprinkles-a14a0b.netlify.app"
+    },
   ]
 }
