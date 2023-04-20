@@ -22,13 +22,13 @@
       "id": 4,
       "title": "ScreenShare",
       "image": "https://commons.wikimedia.org/wiki/File:Chromecast_cast_button_icon.svg#/media/File:Chromecast_cast_button_icon.svg",
-      "url": "http://192.168.0.102:8080/"
+      "url": "https://192.168.0.102:8080/"
     },
      {
       "id": 5,
       "title": "Fishdom-old",
       "image": "https://github.com/jaaveethH/game_demo/blob/main/699510.jpg",
-      "url": "https://clever-custard-589952.netlify.app/"
+      "url": "192.168.0.102:8080"
     },
      {
       "id": 6,
